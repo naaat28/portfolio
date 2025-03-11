@@ -57,12 +57,13 @@
 
             <div class="top_about-profile">
               <div class="top_about-profile_name">
-                <p class="top_about-profile_name__ja">オオノ　ナツミ</p>
+                <p class="top_about-profile_name__ja">大野　夏実</p>
+                <p class="top_about-profile_name__en">オオノ　ナツミ</p>
               </div>
               <!-- /.top_about-profile_name -->
 
               <p class="top_about-txt">
-                1995年生まれ。福島県会津若松市出身、宮城県仙台市在住。<br />
+                1995年生まれ。仙台市在住。<br />
                 約7年間、医療事務職に従事しておりました。<br>
                 その後、キャリアを考える中でWeb制作に出会い、独学で学ぶうちに、この分野で仕事をしたいという思いが強くなりました。<br>
                 さらにスキルを深めるため、プログラミングスクールに入学し、本格的に学び始めました。<br>

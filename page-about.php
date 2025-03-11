@@ -95,7 +95,7 @@
             <span class="about_carry-timeline_bar"></span>
           </li>
           <li class="about_carry-item js_carry-item">
-            <time datetime="2025.02" class="about_carry-data">2025.02</time>
+            <time datetime="2025.02" class="about_carry-data">2025.03</time>
             <p class="about_carry-txt">
               スクール卒業後、チームや個人での制作を経験し、もっと成長したいと思い就職活動を始める。
             </p>

@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>Natsumi Ohno Portfolio</title>
-    <meta name="description" content="WEB制作を行なっております。お客様の想いをデザインに反映し、お客様ご自身で更新できるWEBサイトを制作いたします。" />
+    <meta name="description" content="大野夏実のポートフォリオサイトです。" />
     <meta name="format-detection" content="telephone=no" />
 
     <link rel="icon" href="<?php echo esc_url( get_template_directory_uri() . '/img/favicon.ico' ); ?>" type="image/png" />
@@ -15,7 +15,7 @@
     <meta property="og:url" content="URL" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Natsumi Ohno Portfolio" />
-    <meta property="og:description" content="Web制作会社への就職をめざしております。" />
+    <meta property="og:description" content="大野夏実のポートフォリオサイトです。" />
     <meta property="og:locale" content="ja_JP" />
 
     <?php wp_head(); ?>

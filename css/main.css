@@ -656,10 +656,17 @@ body.no-scroll {
 
 .top_about-profile_name {
   margin-top: 16px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
 }
 
 .top_about-profile_name__ja {
   font-size: clamp(16px, 1.5vw, 20px);
+}
+
+.top_about-profile_name__en{
+  font-size: clamp(14px, 1.5vw, 18px);
 }
 
 .top_about-txt {
